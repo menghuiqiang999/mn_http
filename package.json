@@ -1,0 +1,25 @@
+{
+  "name": "mn_http",
+  "version": "1.0.0",
+  "description": "Http common method",
+  "main": "Http.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/menghuiqiang999/mn_http.git"
+  },
+  "keywords": [
+    "mn_http;http;get;post;http",
+    "get;",
+    "http",
+    "post;"
+  ],
+  "author": "moonlight",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/menghuiqiang999/mn_http/issues"
+  },
+  "homepage": "https://github.com/menghuiqiang999/mn_http#readme"
+}
